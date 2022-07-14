@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc8feab6f45c63d48ac2b0a2b231aa38, type: 3}
+  m_Name: MeleeFairy
+  m_EditorClassIdentifier: 
+  velocity: 3
+  initiative: 15
+  hp: 12
+  atack: 12
+  resistance: 1
+  stack: 50
+  atackdistanse: 1
+  isRanger: 0
+  isFlying: 0
+  heroSprite: {fileID: 21300000, guid: b3dcfdc1aa2f5b04b831b41430e714e8, type: 3}
+  heroSO: {fileID: 8022785805967587069, guid: 0d1a5f3a54c683d419ab9cb30b07cd1f, type: 3}

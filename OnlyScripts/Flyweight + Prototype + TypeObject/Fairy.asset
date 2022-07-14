@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc8feab6f45c63d48ac2b0a2b231aa38, type: 3}
+  m_Name: Fairy
+  m_EditorClassIdentifier: 
+  velocity: 4
+  initiative: 2
+  hp: 10
+  atack: 5
+  resistance: 0
+  atackdistanse: 8
+  stack: 50
+  isRanger: 1
+  isFlying: 1
+  isDeployed: 0
+  heroSprite: {fileID: 21300000, guid: f4aac78a9992af94ebf9c0b867183581, type: 3}
+  heroSO: {fileID: -6644056243230356611, guid: e90ce8892d3f7a34eb53d81935698e90, type: 3}

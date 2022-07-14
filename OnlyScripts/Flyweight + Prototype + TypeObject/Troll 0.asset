@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc8feab6f45c63d48ac2b0a2b231aa38, type: 3}
+  m_Name: Troll 0
+  m_EditorClassIdentifier: 
+  velocity: 5
+  initiative: 50
+  hp: 30
+  atack: 8
+  resistance: 5
+  stack: 35
+  atackdistanse: 0
+  isRanger: 0
+  isFlying: 0
+  heroSprite: {fileID: 21300000, guid: ac0a97d4eb4a26449b15a9c6670e4336, type: 3}
+  heroSO: {fileID: -6025406929850756976, guid: d8c6295775c851641b157694870bf0d5, type: 3}
+  isDeployed: 0
